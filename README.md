@@ -19,5 +19,8 @@ July 1st 2022.
 
 ## Deliverables
 Included in this repository is:
+- The project parameters and overview
 - The Python scripts used to wrangle and present the data
+- Visualizations produced in Python
+- An excel sheet of the analysis steps and results
 - A PowerPoint presentation that highlights and demonstrates results
